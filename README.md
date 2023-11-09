@@ -1,2 +1,2 @@
 # codingbat
-codingbat.com answers
+https://codingbat.com answers
