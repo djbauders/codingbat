@@ -1,2 +1,2 @@
 # codingbat Copyright Nick Parlante 2017
-https://codingbat.com answers
+My answers from https://codingbat.com challenges
